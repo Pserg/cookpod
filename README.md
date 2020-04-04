@@ -1,3 +1,5 @@
+![Elixir CI](https://github.com/Pserg/cookpod/workflows/Elixir%20CI/badge.svg?branch=master)
+
 # Cookpod
 
 To start your Phoenix server:
