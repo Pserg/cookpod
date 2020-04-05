@@ -41,3 +41,9 @@ jobs:
         # The default PostgreSQL port
         POSTGRES_PORT: 5432
       run: mix test
+    - name: Codecov
+        run: |
+          MIX_ENV=test mix do compile --warnings-as-errors, coveralls.json
+          bash <(curl -s https://codecov.io/bash)
+        env:
+          CODECOV_TOKEN: "1728396a-b239-4148-8be6-e195113cff5b"
