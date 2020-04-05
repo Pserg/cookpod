@@ -14,8 +14,8 @@ jobs:
     services:
       postgres:
         image: postgres
-        env_file:
-          - .env/development/database
+        env:
+          POSTGRES_PASSWORD: postgres
         ports:
           - 5432:5432
         # needed because the postgres container does not provide a healthcheck
