@@ -42,6 +42,6 @@ jobs:
         POSTGRES_PORT: 5432
       run: mix test
     - name: Codecov
-      uses: codecov/codecov-action@v1
+      uses: codecov/codecov-action@v1.0.5
       with:
-        token: "1728396a-b239-4148-8be6-e195113cff5b"
+        token: ${{ secrets.CODECOV_TOKEN }}
