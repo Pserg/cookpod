@@ -1,5 +1,4 @@
 ![Elixir CI](https://github.com/Pserg/cookpod/workflows/Elixir%20CI/badge.svg?branch=master)
-[![codecov](https://codecov.io/gh/Pserg/cookpod/branch/master/graph/badge.svg)](https://codecov.io/gh/Pserg/cookpod)
 [![codebeat badge](https://codebeat.co/badges/4215ba08-4978-4e22-b02b-80117e915d7a)](https://codebeat.co/projects/github-com-pserg-cookpod-master)
 
 # Cookpod
