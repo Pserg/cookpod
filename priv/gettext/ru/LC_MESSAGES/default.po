@@ -1,0 +1,137 @@
+## "msgid"s in this file come from POT (.pot) files.
+##
+## Do not add, change, or remove "msgid"s manually here as
+## they're tied to the ones in the corresponding POT file
+## (with the same domain).
+##
+## Use "mix gettext.extract --merge" or "mix gettext.merge"
+## to merge POT files into PO files.
+msgid ""
+msgstr ""
+"Language: ru\n"
+"Plural-Forms: nplurals=3\n"
+
+#, elixir-format
+#: lib/cookpod_web/templates/page/terms.html.slime:1
+msgid "By accessing this website we assume you accept these terms and conditions. Do not continue to use Cookpod if you do not agree to take all of the terms and conditions stated on this page. Our Terms and Conditions were created with the help of the Terms And Conditions Generator and the Free Terms & Conditions Generator."
+msgstr "Заходя на этот сайт, мы предполагаем, что вы принимаете эти условия. Не продолжайте использовать Cookpod, если вы не согласны принять все условия, изложенные на этой странице. Наши Условия были созданы с помощью Генератора Условий и Условий и Генератора Свободных Условий."
+
+#, elixir-format
+#: lib/cookpod_web/templates/page/terms.html.slime:1
+msgid "Cookies"
+msgstr "Куки"
+
+#, elixir-format
+#: lib/cookpod_web/templates/page/terms.html.slime:1
+msgid "Cookpod reserves the right to monitor all Comments and to remove any Comments which can be considered inappropriate, offensive or causes breach of these Terms and Conditions."
+msgstr "Cookpod оставляет за собой право отслеживать все комментарии и удалять любые комментарии, которые могут быть сочтены неуместными, оскорбительными или вызывают нарушение настоящих Условий."
+
+#, elixir-format
+#: lib/cookpod_web/templates/page/terms.html.slime:1
+msgid "License"
+msgstr "Лицензия"
+
+#, elixir-format
+#: lib/cookpod_web/templates/page/terms.html.slime:1
+msgid "Most interactive websites use cookies to let us retrieve the user’s details for each visit. Cookies are used by our website to enable the functionality of certain areas to make it easier for people visiting our website. Some of our affiliate/advertising partners may also use cookies."
+msgstr "Большинство интерактивных веб-сайтов используют файлы cookie, чтобы мы могли получать информацию о пользователях для каждого посещения. Файлы cookie используются нашим веб-сайтом для обеспечения функциональности определенных областей, чтобы облегчить людям посещение нашего веб-сайта. Некоторые из наших аффилированных / рекламных партнеров также могут использовать файлы cookie."
+
+#, elixir-format
+#: lib/cookpod_web/templates/page/terms.html.slime:1
+msgid "Parts of this website offer an opportunity for users to post and exchange opinions and information in certain areas of the website. Cookpod does not filter, edit, publish or review Comments prior to their presence on the website. Comments do not reflect the views and opinions of Cookpod,its agents and/or affiliates. Comments reflect the views and opinions of the person who post their views and opinions. To the extent permitted by applicable laws, Cookpod shall not be liable for the Comments or for any liability, damages or expenses caused and/or suffered as a result of any use of and/or posting of and/or appearance of the Comments on this website."
+msgstr "Части этого веб-сайта предоставляют пользователям возможность публиковать и обмениваться мнениями и информацией в определенных областях веб-сайта. Cookpod не фильтрует, не редактирует, не публикует и не просматривает комментарии до их присутствия на сайте. Комментарии не отражают взгляды и мнения Cookpod, его агентов и / или филиалов. Комментарии отражают взгляды и мнения человека, который публикует свои взгляды и мнения. В той степени, в которой это допускается действующим законодательством, Cookpod не несет ответственности за Комментарии или за любую ответственность, убытки или расходы, вызванные и / или понесенные в результате любого использования и / или публикации и / или появления Комментариев на этом интернет сайт."
+
+#, elixir-format
+#: lib/cookpod_web/templates/page/terms.html.slime:1
+msgid "Redistribute content from Cookpod"
+msgstr "Распространять контент с Cookpod"
+
+#, elixir-format
+#: lib/cookpod_web/templates/page/terms.html.slime:1
+msgid "Reproduce, duplicate or copy material from Cookpod"
+msgstr "Воспроизведение, копирование или копирование материалов из Cookpod"
+
+#, elixir-format
+#: lib/cookpod_web/templates/page/terms.html.slime:1
+msgid "Republish material from Cookpod"
+msgstr "Переиздание материала из Cookpod"
+
+#, elixir-format
+#: lib/cookpod_web/templates/page/terms.html.slime:1
+msgid "Sell, rent or sub-license material from Cookpod"
+msgstr "Продать, арендовать или сублицензировать материал от Cookpod"
+
+#, elixir-format
+#: lib/cookpod_web/templates/page/terms.html.slime:1
+msgid "Terms and conditions"
+msgstr "Условия и положения"
+
+#, elixir-format
+#: lib/cookpod_web/templates/page/terms.html.slime:1
+msgid "The Comments do not contain any defamatory, libelous, offensive, indecent or otherwise unlawful material which is an invasion of privacy"
+msgstr "Комментарии не содержат клеветнических, клеветнических, оскорбительных, непристойных или иных незаконных материалов, которые являются вторжением в личную жизнь."
+
+#, elixir-format
+#: lib/cookpod_web/templates/page/terms.html.slime:1
+msgid "The Comments do not invade any intellectual property right, including without limitation copyright, patent or trademark of any third party;"
+msgstr "Комментарии не нарушают права интеллектуальной собственности, включая, помимо прочего, авторское право, патент или торговую марку какой-либо третьей стороны;"
+
+#, elixir-format
+#: lib/cookpod_web/templates/page/terms.html.slime:1
+msgid "The Comments will not be used to solicit or promote business or custom or present commercial activities or unlawful activity."
+msgstr "Комментарии не будут использоваться для привлечения или продвижения бизнеса или обычаев, а также для представления коммерческой деятельности или незаконной деятельности."
+
+#, elixir-format
+#: lib/cookpod_web/templates/page/terms.html.slime:1
+msgid "The following terminology applies to these Terms and Conditions, Privacy Statement and Disclaimer Notice and all Agreements: Client, You and Your refers to you, the person log on this website and compliant to the Company’s terms and conditions. The Company, Ourselves, We, Our and Us, refers to our Company. Party, Parties, or Us, refers to both the Client and ourselves. All terms refer to the offer, acceptance and consideration of payment necessary to undertake the process of our assistance to the Client in the most appropriate manner for the express purpose of meeting the Client’s needs in respect of provision of the Company’s stated services, in accordance with and subject to, prevailing law of Netherlands. Any use of the above terminology or other words in the singular, plural, capitalization and/or he/she or they, are taken as interchangeable and therefore as referring to same."
+msgstr "Следующая терминология применяется к настоящим Условиям, Заявлению о конфиденциальности и Уведомлению об отказе от ответственности, а также ко всем Соглашениям: Клиент, Вы и Ваш пользователь относится к вам, лицо, которое заходит на этот сайт и соответствует условиям и положениям Компании. Компания, Мы, Мы, Мы и Мы, относится к нашей Компании. Сторона, Стороны или Нас - это касается и Клиента, и нас самих. Все условия относятся к предложению, принятию и рассмотрению платежа, необходимому для того, чтобы предпринять процесс нашей помощи Клиенту наиболее подходящим образом для явной цели удовлетворения потребностей Клиента в отношении предоставления заявленных услуг Компании в соответствии с и в соответствии с действующим законодательством Нидерландов. Любое использование вышеуказанной терминологии или других слов в единственном числе, множественном числе, с заглавной буквы и / или он / она или они, считаются взаимозаменяемыми и, следовательно, относятся к ним."
+
+#, elixir-format
+#: lib/cookpod_web/templates/page/terms.html.slime:1
+msgid "These terms and conditions outline the rules and regulations for the use of Cookpod's Website, located at Cookpod.com."
+msgstr "В этих положениях и условиях изложены правила и нормы использования веб-сайта Cookpod, расположенного по адресу Cookpod.com."
+
+#, elixir-format
+#: lib/cookpod_web/templates/page/terms.html.slime:1
+msgid "This Agreement shall begin on the date hereof."
+msgstr "Настоящее Соглашение начинается с даты настоящего Соглашения."
+
+#, elixir-format
+#: lib/cookpod_web/templates/page/terms.html.slime:1
+msgid "Unless otherwise stated, Cookpod and/or its licensors own the intellectual property rights for all material on Cookpod. All intellectual property rights are reserved. You may access this from Cookpod for your own personal use subjected to restrictions set in these terms and conditions."
+msgstr "Если не указано иное, Cookpod и / или его лицензиары владеют правами интеллектуальной собственности на все материалы Cookpod. Все права на интеллектуальную собственность защищены. Вы можете получить доступ к этому из Cookpod для своего личного использования с учетом ограничений, установленных в этих условиях."
+
+#, elixir-format
+#: lib/cookpod_web/templates/page/terms.html.slime:1
+msgid "We employ the use of cookies. By accessing Cookpod, you agreed to use cookies in agreement with the Cookpod's Privacy Policy."
+msgstr "Мы используем использование куки. Получая доступ к Cookpod, вы соглашаетесь использовать куки в соответствии с Политикой конфиденциальности Cookpod."
+
+#, elixir-format
+#: lib/cookpod_web/templates/page/index.html.eex:2
+msgid "Welcome to %{name}!"
+msgstr "Добро пожаловать в %{name}!"
+
+#, elixir-format
+#: lib/cookpod_web/templates/page/terms.html.slime:1
+msgid "Welcome to Cookpod!"
+msgstr "Добро пожаловать на Cookpod!"
+
+#, elixir-format
+#: lib/cookpod_web/templates/page/terms.html.slime:1
+msgid "You are entitled to post the Comments on our website and have all necessary licenses and consents to do so;"
+msgstr "Вы имеете право размещать Комментарии на нашем веб-сайте и иметь все необходимые лицензии и согласия для этого;"
+
+#, elixir-format
+#: lib/cookpod_web/templates/page/terms.html.slime:1
+msgid "You hereby grant Cookpod a non-exclusive license to use, reproduce, edit and authorize others to use, reproduce and edit any of your Comments in any and all forms, formats or media."
+msgstr "Настоящим вы предоставляете Cookpod неисключительную лицензию на использование, воспроизведение, редактирование и разрешение другим пользователям использовать, воспроизводить и редактировать любые ваши Комментарии в любых формах, форматах или на любых носителях."
+
+#, elixir-format
+#: lib/cookpod_web/templates/page/terms.html.slime:1
+msgid "You must not:"
+msgstr "Вы не должны:"
+
+#, elixir-format
+#: lib/cookpod_web/templates/page/terms.html.slime:1
+msgid "You warrant and represent that:"
+msgstr "Вы гарантируете и подтверждаете, что:"

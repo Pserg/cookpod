@@ -20,7 +20,7 @@ defmodule Cookpod.MixProject do
   def application do
     [
       mod: {Cookpod.Application, []},
-      extra_applications: [:logger, :runtime_tools]
+      extra_applications: [:logger, :runtime_tools, :set_locale]
     ]
   end
 
@@ -42,7 +42,9 @@ defmodule Cookpod.MixProject do
       {:phoenix_live_reload, "~> 1.2", only: :dev},
       {:gettext, "~> 0.11"},
       {:jason, "~> 1.0"},
-      {:plug_cowboy, "~> 2.0"}
+      {:plug_cowboy, "~> 2.0"},
+      {:phoenix_slime, "~> 0.13.1"},
+      {:set_locale, "~> 0.2.1"}
     ]
   end
 
