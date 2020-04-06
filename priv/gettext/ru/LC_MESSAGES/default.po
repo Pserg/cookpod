@@ -109,7 +109,7 @@ msgstr "Мы используем использование куки. Полу�
 #, elixir-format
 #: lib/cookpod_web/templates/page/index.html.eex:2
 msgid "Welcome to %{name}!"
-msgstr "Добро пожаловать на %{name}!"
+msgstr "Добро пожаловать в %{name}!"
 
 #, elixir-format
 #: lib/cookpod_web/templates/page/terms.html.slime:1
